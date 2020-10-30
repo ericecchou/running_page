@@ -87,7 +87,7 @@ jobs:
       - name: Push new runs
         uses: github-actions-x/commit@v2.6
         with:
-          github-token: ${{ secrets.48908f3b730cf3280c00a987a659be3f285c9bb3 }}
+          github-token: ${{ secrets.GH_TOKEN }}
           commit-message: "Add new runs"
           files: activities src/static/ scripts/data.db assets/ GPX_OUT/
           rebase: 'true'
