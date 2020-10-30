@@ -17,7 +17,7 @@ on:
       - requirements.txt
 
 env:
-  RUN_TYPE: keep # support runtastic/strava/nike/garmin/garmin_cn/keep, Please change it to your own
+  RUN_TYPE: nike # support runtastic/strava/nike/garmin/garmin_cn/keep, Please change it to your own
   ATHLETE: Ericec
   TITLE: Ericec Running
   TITLE_GRID: Over 10km Runs
