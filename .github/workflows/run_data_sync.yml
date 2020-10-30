@@ -91,5 +91,5 @@ jobs:
           commit-message: "Add new runs"
           files: activities src/static/ scripts/data.db assets/ GPX_OUT/
           rebase: 'true'
-          name: yihong0618
-          email: zouzou0208@gmail.com
+          name: ericecchou
+          email: wwwzhouliang@gmail.com
