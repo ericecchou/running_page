@@ -3,8 +3,8 @@ const path = require("path");
 module.exports = {
   siteMetadata: {
     title: "Running page",
-    siteUrl: "https://yihong.run",
-    description: "Personal site and blog",
+    siteUrl: "https://zlbk.net",
+    description: "我的跑步数据",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
